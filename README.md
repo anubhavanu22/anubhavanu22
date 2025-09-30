@@ -5,7 +5,7 @@ Hi, I’m Anubhav Shukla 👋
 I’m a passionate Programmer & Web Developer with a strong foundation in Full-Stack Web Development. My goal is to create interactive, responsive, and scalable web applications that solve real-world problems and deliver value to users.
 
 🚀 Current Work:
-I’m currently building an IOCL Full Stack Application, where I focus on optimizing performance, scalability, and efficiency for the energy sector. This project has strengthened my expertise in React, Node.js, Express.js, and MongoDB while applying modern development practices.
+I’m currently building an IOCL Full Stack Application, where I focus on optimizing performance, scalability, and efficiency. This project has strengthened my expertise in React, Node.js, Express.js, and MongoDB while applying modern development practices.
 
 🌱 What I’m Learning:
 I’m continuously sharpening my skills in MERN stack development, API design, and real-time data handling, while also exploring UI/UX best practices to ensure user-friendly designs.
