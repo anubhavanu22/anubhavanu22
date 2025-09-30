@@ -1,12 +1,43 @@
 
 ## Hi there 👋
 
-I’m **Anubhav Shukla**, a passionate **Programmer & Web Developer** with a strong foundation in **full-stack web development**. I love building interactive and responsive web applications that solve real-world problems.  
+Hi, I’m Anubhav Shukla 👋
+I’m a passionate Programmer & Web Developer with a strong foundation in Full-Stack Web Development. My goal is to create interactive, responsive, and scalable web applications that solve real-world problems and deliver value to users.
 
-- 🔭 I’m currently working on **IOCL Full Stack App**, focusing on creating efficient and scalable solutions for the energy sector.  
-- 🌱 I’m currently learning and improving my skills in **React, Node.js, Express.js, and MongoDB** to build modern, database-driven applications.  
-- 👯 I’m open to collaborating on **full-stack web development projects**, especially those involving real-time data, APIs, and responsive UI/UX design.  
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, HTML, and CSS**, and I’m happy to share knowledge or solve challenges.  
-- 📫 How to reach me: anubhavshuklaanu@gmail.com / www.linkedin.com/in/anubhav-shukla-8a127b247  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I completed the **X to 10X Hackathon** at Masai School 
+🚀 Current Work:
+I’m currently building an IOCL Full Stack Application, where I focus on optimizing performance, scalability, and efficiency for the energy sector. This project has strengthened my expertise in React, Node.js, Express.js, and MongoDB while applying modern development practices.
+
+🌱 What I’m Learning:
+I’m continuously sharpening my skills in MERN stack development, API design, and real-time data handling, while also exploring UI/UX best practices to ensure user-friendly designs.
+
+🤝 Collaboration Goals:
+I’m open to collaborating on Full-Stack Web Development projects, especially those involving:
+
+Real-time applications
+
+RESTful APIs or GraphQL
+
+Database-driven systems
+
+Responsive and interactive front-end design
+
+💡 Tech Stack & Skills:
+
+Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Responsive Web Design
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, Firebase
+
+Tools & Others: Git, GitHub, VS Code, Postman
+
+💬 Ask me about: React, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS – I love solving challenges and sharing knowledge with others.
+
+📫 How to reach me:
+
+Email: anubhavshuklaanu@gmail.com
+
+LinkedIn: linkedin.com/in/anubhav-shukla-8a127b247
+
+😄 Pronouns: He/Him
+⚡ Fun Fact: I participated in the X to 10X Hackathon at Masai School
